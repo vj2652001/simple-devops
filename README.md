@@ -1,0 +1,2 @@
+# simple-devops
+shell scripiting
